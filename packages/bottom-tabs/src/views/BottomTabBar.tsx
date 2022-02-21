@@ -291,7 +291,7 @@ export default function BottomTabBar({
       <View pointerEvents="none" style={StyleSheet.absoluteFill}>
         {tabBarBackgroundElement}
       </View>
-      <View accessibilityRole="tablist" style={styles.content}>
+      <View style={styles.content}>
         {routes.map((route, index) => {
           const focused = index === state.index;
           const { options } = descriptors[route.key];
