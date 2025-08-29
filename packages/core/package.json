@@ -46,7 +46,7 @@
     "@types/react": "^17.0.9",
     "@types/react-is": "^17.0.0",
     "del-cli": "^3.0.1",
-    "immer": "^9.0.2",
+    "immer": "^10.1.1",
     "react": "17.0.1",
     "react-native-builder-bob": "^0.18.1",
     "react-test-renderer": "17.0.1",
